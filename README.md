@@ -15,4 +15,4 @@ Passionate about building beautiful and responsive UIs 🚀
 
 ## ⚡ Tech Stack
 
-React • TypeScript • Tailwind CSS • Figma • Git  
+React • TypeScript • Tailwind CSS • Nextjs • Git  • React Native 
